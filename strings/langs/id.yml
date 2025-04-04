@@ -218,9 +218,9 @@ queue_6 : "<b>🕚 Durasi :</b> Stream dengan durasi tidak diketahui\n\nKlik tom
 queue_7 : "\nKlik tombol di bawah untuk melihat seluruh daftar antrean."
 queue_8 : "<b>Pemutar {0}</b>\n\n❄️ <b>Sedang memutar :</b> {1}\n\n🔗 <b>Jenis stream :</b> {2}\n🥀 <b>Diminta oleh :</b> {3}\n{4}"
 
-stream_1 : "➲ <b>Kiw Kiw Mulai Melakukan Streaming |</b>\n\n<b>➠ Judul :</b> <a href={0}>{1}</a>\n<b>➠ Durasi :</b> {2} menit\n<b>➠ Diminta oleh :</b> {3}\n𝐃𝐈𝐁𝐔𝐀𝐓 𝐎𝐋𝐄𝐇 [𝐈𝐍𝐍𝐎𝐂𝐘🥰](https://t.me/its_innocent_boy_2926)"
+stream_1 : "➲ <b>Kiw Kiw Mulai Melakukan Streaming |</b>\n\n<b>➠ Judul :</b> <a href={0}>{1}</a>\n<b>➠ Durasi :</b> {2} menit\n<b>➠ Diminta oleh :</b> {3}\Dibuat dengan ❤️ Oleh [Dilan❄️](https://t.me/DilanXP)"
 stream_2 : "➲ <b>Kiw Kiw Mulai Melakukan Streaming |</b>\n\n<b>➠ Jenis Streaming :</b> Live Stream [URL]\n<b>➠ Diminta oleh :</b> {0}"
-stream_3 : "➲ <b>Dibuat oleh ➠ [Dilan💗](DilanXP)"
+stream_3 : "➲ <b>Dibuat oleh ➠ [Dilan](DilanXP)"
 
 #General
 CLOSE_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
