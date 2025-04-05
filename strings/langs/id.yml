@@ -89,7 +89,7 @@ admin_39 : "» Menghapus 1 suara dukungan."
 admin_40 : "Memberikan suara dukungan."
 
 start_1 : "{0} sedang aktif, sayang.\n\n<b>✫ Waktu Aktif :</b> {1}"
-start_2 : "<b>Awww</b> {0}, ❄️ Kamu ada di sini dan aku menemukamu di sini dan di sana 🥺❤️\n\n๏ Selamat datang di {1} ! 🤗🫠\n\n➻ Bot pemutar musik Telegram yang cepat & kuat dengan beberapa fitur luar biasa.\n\nㅤㅤﾠ🎧 Musik Spotify 🎧\n━━━━━━━━━━━━━━━━━━━<\nㅤ  ㅤ⇆ㅤ◁ㅤ ❚❚ ㅤ▷ ↻﻿  ☆\n\n──────────────────\n\n<b>๏ 📡 Dibuat oleh ➪ [Dilan](https://t.me/DilanXP) 💞</b>"
+start_2 : "<b>Awww</b> {0}, ❄️ Kamu ada di sini dan aku menemukamu di sini dan di sana 🥺❤️\n\n๏ Selamat datang di {1} ! 🤗🫠\n\n➻ Bot pemutar musik Telegram yang cepat & kuat dengan beberapa fitur luar biasa.\n\nㅤㅤﾠ🎧 Musik Dilan 🎧\n━━━━━━━━━━━━━━━━━━━<\nㅤ  ㅤ⇆ㅤ◁ㅤ ❚❚ ㅤ▷ ↻﻿  ☆\n\n──────────────────\n\n<b>๏ 📡 Dibuat oleh ➪ [Dilan](https://t.me/ItsmeDilan) 💞</b>"
 start_3 : "Awww {0},\nIni adalah {1}\n\nTerima kasih telah menambahkan saya di {2}, sekarang {3} bisa memutar lagu di chat ini."
 start_4 : "❄️ <b>Diperlukan Supergroup</b> ❄️\n\nSilakan ubah <b>grup</b> Anda menjadi <b>supergroup</b> dan tambahkan saya kembali.\n\n<b>Cara mengubah menjadi supergroup?</b>\n- Aktifkan <b>riwayat chat</b> grup Anda agar terlihat sekali."
 start_5 : "<b>↝ Chat Masuk Daftar Hitam ↜</b>\n\nChat ini masuk daftar hitam di database {0}.\nSilakan minta <a href={1}>pengguna sudo</a> untuk menghapus daftar hitam chat ini atau kunjungi <a href={2}>grup dukungan.</a>"
@@ -218,7 +218,7 @@ queue_6 : "<b>🕚 Durasi :</b> Stream dengan durasi tidak diketahui\n\nKlik tom
 queue_7 : "\nKlik tombol di bawah untuk melihat seluruh daftar antrean."
 queue_8 : "<b>Pemutar {0}</b>\n\n❄️ <b>Sedang memutar :</b> {1}\n\n🔗 <b>Jenis stream :</b> {2}\n🥀 <b>Diminta oleh :</b> {3}\n{4}"
 
-stream_1 : "➲ <b>Kiw Kiw Mulai Melakukan Streaming |</b>\n\n<b>➠ Judul :</b> <a href={0}>{1}</a>\n<b>➠ Durasi :</b> {2} menit\n<b>➠ Diminta oleh :</b> {3}\nDibuat dengan ❤️ oleh [Dilan❄️](https://t.me/DilanXP)"
+stream_1 : "➲ <b>Kiw Kiw Mulai Melakukan Streaming |</b>\n\n<b>➠ Judul :</b> <a href={0}>{1}</a>\n<b>➠ Durasi :</b> {2} menit\n<b>➠ Diminta oleh :</b> {3}\nDibuat dengan ❤️ oleh [Dilan❄️](https://t.me/ItsmeDilan)"
 stream_2 : "➲ <b>Kiw Kiw Mulai Melakukan Streaming |</b>\n\n<b>➠ Jenis Streaming :</b> Live Stream [URL]\n<b>➠ Diminta oleh :</b> {0}"
 stream_3 : "➲ <b>Dibuat oleh ➠ [Dilan](DilanXP)"
 
