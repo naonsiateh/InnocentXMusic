@@ -23,11 +23,11 @@ async def must_join_channel(app: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply_photo(
-                    photo="https://files.catbox.moe/2yr8au.jpg", caption=f"๏ Menurut database saya, kamu belum bergabung dengan [๏ AlteregoHub ๏]({link}). Jika kamu ingin menggunakan saya, maka bergabunglah dengan [๏ AlteregoHub ๏]({link}) dan memulai saya kembali!  ",
+                    photo="https://files.catbox.moe/2yr8au.jpg", caption=f"๏ Menurut database saya, kamu belum bergabung dengan [๏ DilanSupport ๏]({link}). Jika kamu ingin menggunakan saya, maka bergabunglah dengan [๏ DilanSupport ๏]({link}) dan memulai saya kembali!  ",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("๏ Join AlterHub ๏", url=link),
+                                InlineKeyboardButton("๏ Join DilanSupport ๏", url=link),
                             ]
                         ]
                     )
