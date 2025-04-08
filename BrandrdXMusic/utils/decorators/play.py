@@ -28,7 +28,7 @@ from strings import get_string
 links = {}
 clinks = {}
 
-MUST_JOIN = "AlteregoHub"  # Ganti dengan channel kamu
+MUST_JOIN = "DilanSupport"  # Ganti dengan channel kamu
 
 async def check_must_join(client, message: Message):
     if not MUST_JOIN or message.from_user is None:
@@ -45,7 +45,7 @@ async def check_must_join(client, message: Message):
                 link = f"https://t.me/{MUST_JOIN}"
 
             await message.reply_photo(
-                photo="https://files.catbox.moe/mim7yt.jpg",
+                photo="https://files.catbox.moe/2yr8au.jpg",
                 caption=f"Kamu harus bergabung ke [AlteregoHub]({link}) sebelum menggunakan bot ini.",
                 reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton("Join AlteregoHub", url=link)]]
