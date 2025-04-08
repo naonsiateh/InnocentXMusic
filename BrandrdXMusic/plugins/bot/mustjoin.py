@@ -6,7 +6,7 @@ from BrandrdXMusic import app
 
 #--------------------------
 
-MUST_JOIN = "AlteregoHub"
+MUST_JOIN = "https://t.me/DilanSupport"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
@@ -23,7 +23,7 @@ async def must_join_channel(app: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply_photo(
-                    photo="https://files.catbox.moe/mim7yt.jpg", caption=f"๏ Menurut database saya, kamu belum bergabung dengan [๏ AlteregoHub ๏]({link}). Jika kamu ingin menggunakan saya, maka bergabunglah dengan [๏ AlteregoHub ๏]({link}) dan memulai saya kembali!  ",
+                    photo="https://files.catbox.moe/2yr8au.jpg", caption=f"๏ Menurut database saya, kamu belum bergabung dengan [๏ AlteregoHub ๏]({link}). Jika kamu ingin menggunakan saya, maka bergabunglah dengan [๏ AlteregoHub ๏]({link}) dan memulai saya kembali!  ",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
