@@ -46,9 +46,9 @@ async def check_must_join(client, message: Message):
 
             await message.reply_photo(
                 photo="https://files.catbox.moe/2yr8au.jpg",
-                caption=f"Kamu harus bergabung ke [AlteregoHub]({link}) sebelum menggunakan bot ini.",
+                caption=f"Kamu harus bergabung ke [DilanSupport]({link}) sebelum menggunakan bot ini.",
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton("Join AlteregoHub", url=link)]]
+                    [[InlineKeyboardButton("Join DilanSupport", url=link)]]
                 ),
             )
         except ChatWriteForbidden:
